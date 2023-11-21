@@ -1,6 +1,6 @@
 
 def main():
-    print("/app/main.py is working")
+    print("/app/main.py is working!")
 
 
 if __name__ == "__main__":
