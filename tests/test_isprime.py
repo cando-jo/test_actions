@@ -1,4 +1,4 @@
-from isprime import is_prime
+from app.isprime import is_prime
 
 def test_1():
     assert is_prime(1) == False
